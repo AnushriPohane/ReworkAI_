@@ -1,0 +1,190 @@
+.talent-assessment {
+  font-family: var(--font-garnett-regular);
+}
+.discover-the-future-container {
+  align-self: stretch;
+  height: 118px;
+  position: relative;
+  font-size: var(--font-size-23xl);
+  color: var(--primary-100);
+  display: flex;
+  align-items: center;
+  font-family: var(--font-garnett-semibold);
+}
+.facing-challenges-in,
+.uncover-the-costs {
+  margin: 0;
+}
+.facing-challenges-in-container {
+  align-self: stretch;
+  position: relative;
+}
+.inside-this-whitepaper {
+  margin: 0;
+}
+.manual-vs-machine-based {
+  font-family: var(--font-poppins);
+}
+.manual-vs-machine-based-hirin1 {
+  margin-bottom: 0;
+}
+.the-truth-about {
+  font-family: var(--font-poppins);
+}
+.the-truth-about-interview-as {
+  margin-bottom: 0;
+}
+.generative-ai-the {
+  font-family: var(--font-poppins);
+}
+.manual-vs-machine-based-hirin {
+  margin: 0;
+  font-size: inherit;
+  padding-left: var(--padding-5xl);
+}
+.inside-this-whitepaper-container {
+  align-self: stretch;
+  position: relative;
+}
+.data-hub {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+}
+.download-now-for {
+  position: relative;
+  font-size: var(--font-size-5xl);
+  line-height: 28px;
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-snow);
+  text-align: left;
+}
+.cta-button2,
+.data-hub-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.cta-button2 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-2xl) var(--padding-37xl);
+  background-color: var(--primary-100);
+  border-radius: var(--br-xl);
+  box-shadow: 0 8px 18px rgba(174, 93, 255, 0.46);
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.cta-button2:hover {
+  background-color: var(--color-darkorchid);
+}
+.data-hub-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-75xl);
+  min-width: 502px;
+}
+.wrapper-rectangle-39394-child {
+  height: 100%;
+  width: 100%;
+  max-width: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: -9px;
+  top: 10px;
+  transform: scale(1.049);
+}
+.wrapper-rectangle-39394 {
+  height: 563px;
+  width: 387px;
+  position: relative;
+  border-radius: var(--br-xs);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cta,
+.cta-wrapper {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.cta {
+  flex: 1;
+  background-color: var(--white);
+  overflow: hidden;
+  align-items: flex-end;
+  justify-content: center;
+  padding: var(--padding-62xl) var(--padding-101xl) var(--padding-91xl);
+  gap: var(--gap-21xl);
+}
+.cta-wrapper {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-49xl);
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-300);
+  font-family: var(--font-poppins);
+}
+@media screen and (max-width: 1125px) {
+  .wrapper-rectangle-39394-child {
+    flex: 1;
+  }
+  .cta {
+    flex-wrap: wrap;
+  }
+  .cta-wrapper {
+    padding-bottom: var(--padding-25xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 825px) {
+  .discover-the-future-container {
+    font-size: var(--font-size-15xl);
+  }
+  .cta-button2 {
+    padding-left: var(--padding-9xl);
+    padding-right: var(--padding-9xl);
+    box-sizing: border-box;
+  }
+  .data-hub-parent {
+    gap: 47px 94px;
+    min-width: 100%;
+  }
+  .cta {
+    gap: 40px 20px;
+    padding: var(--padding-34xl) var(--padding-41xl) var(--padding-52xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .discover-the-future-container {
+    font-size: var(--font-size-6xl);
+  }
+  .download-now-for {
+    font-size: var(--font-size-lgi);
+    line-height: 22px;
+  }
+  .data-hub-parent {
+    gap: 23px 94px;
+  }
+  .cta,
+  .cta-wrapper {
+    box-sizing: border-box;
+  }
+  .cta {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+  }
+  .cta-wrapper {
+    padding-bottom: var(--padding-10xl);
+  }
+}

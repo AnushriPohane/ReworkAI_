@@ -1,0 +1,270 @@
+.helpful-for-your {
+  font-family: var(--font-garnett-regular);
+}
+.our-amazing-benefits-container {
+  width: 997px;
+  position: relative;
+  line-height: 50px;
+  text-transform: capitalize;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.our-amazing-benefits-helpful-f-wrapper {
+  width: 1200px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-child4 {
+  width: 975px;
+  display: none;
+  max-width: 100%;
+}
+.data-table-icon {
+  width: 43px;
+  height: 32.2px;
+  position: relative;
+}
+.data-graph-icon {
+  width: 66.74%;
+  height: 55.59%;
+  position: absolute;
+  margin: 0 !important;
+  top: 21.43%;
+  right: 14.65%;
+  bottom: 22.98%;
+  left: 18.6%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.error-handler,
+.error-handler-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.error-handler {
+  height: 32.2px;
+  flex-direction: column;
+  position: relative;
+  gap: var(--gap-3xs);
+}
+.error-handler-wrapper {
+  flex-direction: row;
+  padding: 0 var(--padding-9xs) 0 var(--padding-9xs-7);
+}
+.highly-contextualized {
+  margin: 0;
+}
+.interview {
+  margin: 0;
+  font-family: var(--font-garnett-regular);
+}
+.highly-contextualized-intervie-container {
+  align-self: stretch;
+  height: 66px;
+  position: relative;
+  display: inline-block;
+}
+.al-models-generate {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-base);
+  line-height: 28px;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-400);
+}
+.data-tree,
+.frame-parent4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.data-tree {
+  align-self: stretch;
+  gap: var(--gap-lg);
+}
+.frame-parent4 {
+  width: 343.7px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 856.3px;
+  padding: var(--padding-8xs) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-11xl-8);
+}
+.data-circle-icon {
+  height: 36px;
+  width: 36px;
+  position: relative;
+}
+.data-square-icon,
+.data-star-icon,
+.data-triangle-icon {
+  height: 38.89%;
+  width: 61.11%;
+  position: absolute;
+  margin: 0 !important;
+  top: 41.67%;
+  right: 27.78%;
+  bottom: 19.44%;
+  left: 11.11%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.data-square-icon,
+.data-star-icon {
+  height: 15.28%;
+  width: 8.33%;
+  top: 70.83%;
+  right: 13.89%;
+  bottom: 13.89%;
+  left: 77.78%;
+}
+.data-star-icon {
+  height: 19.44%;
+  width: 33.33%;
+  top: 0;
+  right: 38.89%;
+  bottom: 80.56%;
+  left: 27.78%;
+}
+.data-queue,
+.data-stack {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.data-queue {
+  height: 36px;
+  position: relative;
+  gap: var(--gap-3xs);
+}
+.data-stack {
+  padding: 0 var(--padding-7xs);
+}
+.automated {
+  margin: 0;
+}
+.scheduling {
+  margin: 0;
+  font-family: var(--font-garnett-regular);
+}
+.automated-scheduling,
+.email-whatsapp {
+  align-self: stretch;
+  position: relative;
+  line-height: 27.2px;
+}
+.email-whatsapp {
+  font-size: var(--font-size-base);
+  line-height: 28px;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-400);
+}
+.data-oval {
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-lg);
+}
+.data-block,
+.data-oval,
+.frame-parent3 {
+  display: flex;
+  align-items: flex-start;
+}
+.data-block {
+  width: 343.7px;
+  margin: 0 !important;
+  position: absolute;
+  top: 308px;
+  left: 0;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-5xl);
+}
+.frame-parent3 {
+  width: 1200px;
+  height: 544px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  position: relative;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+}
+.for-employers-child,
+.frame-parent2 {
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-parent2 {
+  flex: 1;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-82xl) var(--padding-xl) var(--padding-136xl);
+  gap: var(--gap-74xl);
+  z-index: 2;
+}
+.for-employers-child {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-11xs) 0 0;
+  text-align: center;
+  font-size: var(--font-size-23xl);
+  color: var(--primary-100);
+  font-family: var(--font-garnett-semibold);
+}
+@media screen and (max-width: 1125px) {
+  .frame-parent2 {
+    padding-top: var(--padding-47xl);
+    padding-bottom: var(--padding-82xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 825px) {
+  .our-amazing-benefits-container {
+    font-size: var(--font-size-15xl);
+    line-height: 40px;
+  }
+  .frame-parent2 {
+    gap: 46px 93px;
+    padding-top: var(--padding-24xl);
+    padding-bottom: var(--padding-47xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .our-amazing-benefits-container {
+    font-size: var(--font-size-6xl);
+    line-height: 30px;
+  }
+  .automated-scheduling,
+  .highly-contextualized-intervie-container {
+    font-size: var(--font-size-lgi);
+  }
+  .frame-parent2 {
+    gap: 23px 93px;
+  }
+}
